@@ -8,7 +8,7 @@ Accountability Accounting, a prominent investment bank, is interested in offerin
 
 Plots generated:
 
-![3D plot](http://url/to/img.png)
+![3D plot](https://github.com/Aleahkita/Cryptocurrencies/blob/main/Images/3D_plot.png)
 
 
-![Scatter plot](http://url/to/img.png)
+![Scatter plot](https://github.com/Aleahkita/Cryptocurrencies/blob/main/Images/Scatter_plot.png)
